@@ -1,0 +1,8 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+13:24:43	67/67	---M--	200	added ('OK')	text/plain	etag:%227172fc949ad9060a8d15b75fcf9975ee-ssl%22	https://mint.nyolings.io/robots.txt		(from )
+13:24:44	570/570	---M--	200	added ('OK')	text/html	etag:%22a4d7aa741cc984a26d6878fb9fbbbb0a-ssl%22	https://mint.nyolings.io/	/Users/oneilbenjamin/websites/nyyoo/index-2.html	(from )
+13:24:44	2000/2000	---M--	200	added ('OK')	image/png	etag:%22444ed8110a614ade9bad1cc9ae8dcb0c-ssl%22	https://mint.nyolings.io/favicon.png	/Users/oneilbenjamin/websites/nyyoo/favicon.png	(from https://mint.nyolings.io/)
+13:24:46	492/492	---M--	200	added ('OK')	application/json	etag:%22349926a665a86927b27cf16a88387fbb-ssl%22	https://mint.nyolings.io/manifest.json	/Users/oneilbenjamin/websites/nyyoo/manifest.json	(from https://mint.nyolings.io/)
+13:24:46	569162/569162	---M-Z	200	added ('OK')	application/javascript	etag:%22787706ac2a19e5b2a582c231b6e2c3aa-ssl-df%22	https://mint.nyolings.io/static/js/main.c3e9bdf3.js	/Users/oneilbenjamin/websites/nyyoo/static/js/main.c3e9bdf3.js	(from https://mint.nyolings.io/)
+13:24:47	200/200	---M--	200	added ('OK')	text/css	etag:%22484da488f153a428bbf60254da3dc946-ssl%22	https://mint.nyolings.io/static/css/main.6371baac.css	/Users/oneilbenjamin/websites/nyyoo/static/css/main.6371baac.css	(from https://mint.nyolings.io/)
+13:24:49	36900/36900	---M--	200	added ('OK')	font/ttf	etag:%22497233b8056ce2b6571ce13d375566c0-ssl%22	https://mint.nyolings.io/static/media/Hansip.645f140b0213d58cb012.ttf	/Users/oneilbenjamin/websites/nyyoo/static/media/Hansip.645f140b0213d58cb012.ttf	(from https://mint.nyolings.io/static/css/main.6371baac.css)
